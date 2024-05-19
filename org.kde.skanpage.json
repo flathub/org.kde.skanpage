@@ -192,7 +192,8 @@
                 }
             ],
             "post-install": [
-                "[ -f \"${FLATPAK_DEST}/etc/hp/hplip.conf\" ] || install -p -D \"hplip.conf\" -t \"${FLATPAK_DEST}/etc/hp/\";"
+                "[ -f \"${FLATPAK_DEST}/etc/hp/hplip.conf\" ] || install -p -D \"hplip.conf\" -t \"${FLATPAK_DEST}/etc/hp/\";",
+                "echo 'hpaio' > hpaio && install -p -D hpaio -t \"${FLATPAK_DEST}/etc/sane.d/dll.d/\";"
             ],
             "cleanup": [
                 "/lib/cups",
