@@ -118,13 +118,18 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://downloads.sourceforge.net/net-snmp/net-snmp-5.9.4.tar.gz",
+                    "url": "https://sourceforge.net/projects/net-snmp/files/net-snmp/5.9.4/net-snmp-5.9.4.tar.gz",
+                    "x-checker-data": {
+                        "type": "html",
+                        "url": "https://sourceforge.net/projects/net-snmp/rss",
+                        "pattern": "<link>(https://sourceforge.net/.+/net-snmp-([\\d\\.]+\\d).tar.gz)/download</link>"
+                    },
                     "sha256": "8b4de01391e74e3c7014beb43961a2d6d6fa03acc34280b9585f4930745b0544"
                 }
             ]
         },
         {
-            "name": "hpaio",
+            "name": "hplip",
             "config-opts": [
                 "--disable-static",
                 "--disable-doc-build",
@@ -157,7 +162,12 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://downloads.sourceforge.net/sourceforge/hplip/hplip-3.23.12.tar.gz",
+                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.23.12/hplip-3.23.12.tar.gz",
+                    "x-checker-data": {
+                        "type": "html",
+                        "url": "https://sourceforge.net/projects/hplip/rss",
+                        "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
+                    },
                     "sha256": "a76c2ac8deb31ddb5f0da31398d25ac57440928a0692dcb060a48daa718e69ed"
                 },
                 {
