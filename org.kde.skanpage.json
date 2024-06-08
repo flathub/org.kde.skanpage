@@ -3,6 +3,8 @@
     "runtime": "org.kde.Platform",
     "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
+    "base": "io.qt.qtwebengine.BaseApp",
+    "base-version": "6.6",
     "rename-icon": "skanpage",
     "command": "skanpage",
     "finish-args": [
