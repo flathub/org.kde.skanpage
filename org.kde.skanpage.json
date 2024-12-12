@@ -163,7 +163,7 @@
                 "--with-cupsbackenddir=/app/lib/cups/backend"
             ],
             "build-options": {
-                "cppflags": "-I/app/include/libusb-1.0"
+                "cppflags": "-I/app/include/libusb-1.0 -Wno-deprecated-declarations -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion"
             },
             "sources": [
                 {
@@ -175,6 +175,14 @@
                         "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
                     },
                     "sha256": "5d7643831893a5e2addf9d42d581a5dbfe5aaf023626886b8762c5645da0f1fb"
+                },
+                {
+                    "type": "patch",
+                    "path": "hplip-hpaio-gcc14.patch"
+                },
+                {
+                    "type": "patch",
+                    "path": "hplip-pserror-gcc14.patch"
                 },
                 {
                     "type": "shell",
