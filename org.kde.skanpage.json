@@ -168,13 +168,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.24.4/hplip-3.24.4.tar.gz",
+                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.25.2/hplip-3.25.2.tar.gz",
                     "x-checker-data": {
                         "type": "html",
                         "url": "https://sourceforge.net/projects/hplip/rss",
                         "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
                     },
-                    "sha256": "5d7643831893a5e2addf9d42d581a5dbfe5aaf023626886b8762c5645da0f1fb"
+                    "sha256": "e872ff28eb2517705a95f6e1839efa1e50a77a33aae8905278df2bd820919653"
                 },
                 {
                     "type": "patch",
