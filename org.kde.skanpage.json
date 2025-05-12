@@ -92,8 +92,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.34.tar.gz",
-                    "sha256": "da159fb231ee92bb5381620a43730f1fd7f78557b0eecee8d2eb848cafd90c43",
+                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.35.tar.gz",
+                    "sha256": "c947246c0e3bf0e2c79b3d795a8b59f0159d4ac81650ba8328ba8d49545eb308",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 121086,
@@ -168,13 +168,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.24.4/hplip-3.24.4.tar.gz",
+                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.25.2/hplip-3.25.2.tar.gz",
                     "x-checker-data": {
                         "type": "html",
                         "url": "https://sourceforge.net/projects/hplip/rss",
                         "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
                     },
-                    "sha256": "5d7643831893a5e2addf9d42d581a5dbfe5aaf023626886b8762c5645da0f1fb"
+                    "sha256": "e872ff28eb2517705a95f6e1839efa1e50a77a33aae8905278df2bd820919653"
                 },
                 {
                     "type": "patch",
@@ -223,8 +223,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/ksanecore-25.04.0.tar.xz",
-                    "sha256": "e1c60d6e2acf6692cabe21fd70b46fd32d8f5aeef6b769c2ffaf75401e0cbca4",
+                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/ksanecore-25.04.1.tar.xz",
+                    "sha256": "110338209019dc30714687d5c243355746284cfac412dcf703ac1b6e07f48be5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -372,8 +372,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/skanpage-25.04.0.tar.xz",
-                    "sha256": "c47f9c8917b101cfe16eca931a682e1b7069d04736a6f2a3d191b779c9095c23",
+                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/skanpage-25.04.1.tar.xz",
+                    "sha256": "06c11a9834cbee457a3164e6277a0dba3d316db7810662c435aa9da500088933",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
