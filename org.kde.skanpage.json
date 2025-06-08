@@ -77,12 +77,12 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/sane-project/backends",
-                    "tag": "1.3.1",
+                    "tag": "1.4.0",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
                     },
-                    "commit": "3ff55fd8ee04ae459e199088ebe11ac979671d0e"
+                    "commit": "c7e4b5e35e3d614d2b1181d760a717bfc395a203"
                 }
             ]
         },
@@ -92,8 +92,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.34.tar.gz",
-                    "sha256": "da159fb231ee92bb5381620a43730f1fd7f78557b0eecee8d2eb848cafd90c43",
+                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.35.tar.gz",
+                    "sha256": "c947246c0e3bf0e2c79b3d795a8b59f0159d4ac81650ba8328ba8d49545eb308",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 121086,
@@ -168,13 +168,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.24.4/hplip-3.24.4.tar.gz",
+                    "url": "https://sourceforge.net/projects/hplip/files/hplip/3.25.2/hplip-3.25.2.tar.gz",
                     "x-checker-data": {
                         "type": "html",
                         "url": "https://sourceforge.net/projects/hplip/rss",
                         "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
                     },
-                    "sha256": "5d7643831893a5e2addf9d42d581a5dbfe5aaf023626886b8762c5645da0f1fb"
+                    "sha256": "e872ff28eb2517705a95f6e1839efa1e50a77a33aae8905278df2bd820919653"
                 },
                 {
                     "type": "patch",
@@ -223,8 +223,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/ksanecore-25.04.0.tar.xz",
-                    "sha256": "e1c60d6e2acf6692cabe21fd70b46fd32d8f5aeef6b769c2ffaf75401e0cbca4",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/ksanecore-25.04.2.tar.xz",
+                    "sha256": "7039e9c4c1f2c295359a68d9581f07c0674572848391ac7ccbb1af22c07915d8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -262,8 +262,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.0.tar.gz",
-                    "sha256": "f2fb34ca035b6d087a42875a35a7a5c4155fa9979c6132365b1e5a28ebc3fc11",
+                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.1.tar.gz",
+                    "sha256": "a7a3f2a7420cb6a6a94d80c24163e183cf1d2f1bed2df3bbc397c81808a57237",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 4954,
@@ -372,8 +372,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/skanpage-25.04.0.tar.xz",
-                    "sha256": "c47f9c8917b101cfe16eca931a682e1b7069d04736a6f2a3d191b779c9095c23",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/skanpage-25.04.2.tar.xz",
+                    "sha256": "5bb263cc7adb3e522117face5afa4f98653c9e83397f9d2aa1ed91cf9a344731",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
