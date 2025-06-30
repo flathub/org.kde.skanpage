@@ -169,11 +169,6 @@
                 {
                     "type": "archive",
                     "url": "https://sourceforge.net/projects/hplip/files/hplip/3.24.4/hplip-3.24.4.tar.gz",
-                    "x-checker-data": {
-                        "type": "html",
-                        "url": "https://sourceforge.net/projects/hplip/rss",
-                        "pattern": "<link>(https://sourceforge.net/.+/hplip-([\\d\\.]+\\d).tar.gz)/download</link>"
-                    },
                     "sha256": "5d7643831893a5e2addf9d42d581a5dbfe5aaf023626886b8762c5645da0f1fb"
                 },
                 {
