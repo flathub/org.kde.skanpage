@@ -8,11 +8,11 @@
     "rename-icon": "skanpage",
     "command": "skanpage",
     "finish-args": [
+        "--device=all",
         "--share=ipc",
+        "--share=network",
         "--socket=fallback-x11",
         "--socket=wayland",
-        "--device=all",
-        "--share=network",
         "--system-talk-name=org.freedesktop.Avahi"
     ],
     "cleanup": [
