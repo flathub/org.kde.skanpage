@@ -8,23 +8,25 @@
     "rename-icon": "skanpage",
     "command": "skanpage",
     "finish-args": [
+        "--device=all",
         "--share=ipc",
+        "--share=network",
         "--socket=fallback-x11",
         "--socket=wayland",
-        "--device=all",
-        "--share=network",
         "--system-talk-name=org.freedesktop.Avahi"
     ],
     "cleanup": [
         "*.a",
         "*.la",
         "/include",
+        "/lib/*/cmake",
+        "/lib/*/pkgconfig",
         "/lib/cmake",
         "/lib/pkgconfig",
         "/mkspecs",
         "/share/doc",
         "/share/man",
-        "/share/qlogging-categories5"
+        "/share/qlogging-categories6"
     ],
     "modules": [
         "shared-modules/libusb/libusb.json",
