@@ -19,12 +19,14 @@
         "*.a",
         "*.la",
         "/include",
+        "/lib/*/cmake",
+        "/lib/*/pkgconfig",
         "/lib/cmake",
         "/lib/pkgconfig",
         "/mkspecs",
         "/share/doc",
         "/share/man",
-        "/share/qlogging-categories5"
+        "/share/qlogging-categories6"
     ],
     "modules": [
         "shared-modules/libusb/libusb.json",
