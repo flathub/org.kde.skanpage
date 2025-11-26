@@ -29,7 +29,6 @@
         "/share/qlogging-categories6"
     ],
     "modules": [
-        "shared-modules/libusb/libusb.json",
         {
             "name": "avahi",
             "buildsystem": "autotools",
