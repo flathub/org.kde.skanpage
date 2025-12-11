@@ -220,8 +220,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/ksanecore-25.08.3.tar.xz",
-                    "sha256": "e15659994193ee60d29fae09e27d2e453fc32e449faf8808a57cac8a9eaba997",
+                    "url": "https://download.kde.org/stable/release-service/25.12.0/src/ksanecore-25.12.0.tar.xz",
+                    "sha256": "617d01d96ea78bad4c3d681517e64b16f037f9ca387c25a05ecefbc59e3cdb32",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -369,8 +369,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/skanpage-25.08.3.tar.xz",
-                    "sha256": "e8431c73f62901db93e4700cecb762799abde056abf8fd80af8707d129c6d458",
+                    "url": "https://download.kde.org/stable/release-service/25.12.0/src/skanpage-25.12.0.tar.xz",
+                    "sha256": "23042e27ddac86912ae2f0a7f2008ce08755390cf8404b12c82d5e8f0268ec89",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
