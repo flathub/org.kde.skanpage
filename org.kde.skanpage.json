@@ -125,13 +125,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://sourceforge.net/projects/net-snmp/files/net-snmp/5.9.5/net-snmp-5.9.5.tar.gz",
+                    "url": "https://sourceforge.net/projects/net-snmp/files/net-snmp/5.9.5.2/net-snmp-5.9.5.2.tar.gz",
                     "x-checker-data": {
                         "type": "html",
                         "url": "https://sourceforge.net/projects/net-snmp/rss",
                         "pattern": "<link>(https://sourceforge.net/.+/net-snmp-([\\d\\.]+\\d).tar.gz)/download</link>"
                     },
-                    "sha256": "07f94f06a8d681485e43eeec4f190d9bea43e1b335146d0de466b6de3f3f4c5a"
+                    "sha256": "16707719f833184a4b72835dac359ae188123b06b5e42817c00790d7dc1384bf"
                 }
             ]
         },
