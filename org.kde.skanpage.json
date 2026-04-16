@@ -233,8 +233,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/ksanecore-25.12.3.tar.xz",
-                    "sha256": "60476b5e7ad764142cf69af1f827e9f7af8883eae3cbd3faa6d1a42d635ee282",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/ksanecore-26.04.0.tar.xz",
+                    "sha256": "35091dc0b3ad4963e30aaecd63d76ba9a964c9817cf37a6506c2150138c3421a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -364,8 +364,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "sha256": "11ed4ce1c164a8b6d50bbc1548b5849ab75d5fb837619b90f2cea51ed122547a",
-                    "url": "https://download.kde.org/stable/kquickimageeditor/kquickimageeditor-0.6.0.tar.xz",
+                    "sha256": "b868800bb9bb814ee36c9d696be9ccec9a22ab6f975d789e248b75fbd1ba99fa",
+                    "url": "https://download.kde.org/stable/kquickimageeditor/kquickimageeditor-0.6.1.tar.xz",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 229033,
@@ -382,8 +382,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/skanpage-25.12.3.tar.xz",
-                    "sha256": "2133b783bafb2e7d8cae873b648f10bf2d6edd7baa31d34fcc6c4b0d6507a13d",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/skanpage-26.04.0.tar.xz",
+                    "sha256": "0c5450ddf8ca203407f74035fec45c17d59ddcd8f9d2e986c88a750d90bdc45a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
