@@ -96,8 +96,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.37.tar.gz",
-                    "sha256": "b012d4ca8b526e28b0baf1e0dcc1504a1f67118914ee9362201d04a37dbf7e5f",
+                    "url": "https://github.com/alexpevzner/sane-airscan/archive/refs/tags/0.99.38.tar.gz",
+                    "sha256": "1e5b3b8373141caa37bf42fe74ae1950de3ff15c84966d8a415485d334ba5507",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 121086,
@@ -272,8 +272,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.2.tar.gz",
-                    "sha256": "6235ea0dae45ea137f59c09320406f5888383741924d98855bd2ce0d16b54f21",
+                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.3.tar.gz",
+                    "sha256": "9218e62793116d42a9f6d14cd9348518b27f382096eea3d0f2d1a24616bb5884",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 4954,
@@ -370,8 +370,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/4.13.0.tar.gz",
-                    "sha256": "1d40ca017ea51c533cf9fd5cbde5b5fe7ae248291ddf2af99d4c17cf8e13017d",
+                    "url": "https://github.com/opencv/opencv/archive/5.0.0.tar.gz",
+                    "sha256": "b0528f5a1d379d59d4701cb28c36e22214cc51cf64594e5b56f2d3e6c0233095",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -381,8 +381,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/4.13.0.tar.gz",
-                    "sha256": "1e0077a4fd2960a7d2f4c9e49d6ba7bb891cac2d1be36d7e8e47aa97a9d1039b",
+                    "url": "https://github.com/opencv/opencv_contrib/archive/5.0.0.tar.gz",
+                    "sha256": "c58f6344170c39abf187c56f3843b59cab1fd3e89cf19ba2ce25dc061659b27f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
