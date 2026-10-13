@@ -173,8 +173,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://downloads.sourceforge.net/sourceforge/hplip/hplip-3.26.4.tar.gz",
-                    "sha256": "b9c61252754f35b4a237396ca8961e7b3e0c56db76d66a6712b7bf3e30e69463",
+                    "url": "https://downloads.sourceforge.net/sourceforge/hplip/hplip-3.26.6.tar.gz",
+                    "sha256": "5fb2235a9cb6ec07cb4786c4066b151359c301324d54aaabf69ae7eef35606b3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1327,
