@@ -174,13 +174,7 @@
                 {
                     "type": "archive",
                     "url": "https://downloads.sourceforge.net/sourceforge/hplip/hplip-3.26.4.tar.gz",
-                    "sha256": "b9c61252754f35b4a237396ca8961e7b3e0c56db76d66a6712b7bf3e30e69463",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 1327,
-                        "stable-only": true,
-                        "url-template": "https://downloads.sourceforge.net/sourceforge/hplip/hplip-$version.tar.gz"
-                    }
+                    "sha256": "b9c61252754f35b4a237396ca8961e7b3e0c56db76d66a6712b7bf3e30e69463"
                 },
                 {
                     "type": "patch",
@@ -233,8 +227,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/ksanecore-26.08.2.tar.xz",
-                    "sha256": "532b69ef17ed29c787b0da4050117fb3fab6499242d23f9207e5d5894caaab9a",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/ksanecore-26.08.3.tar.xz",
+                    "sha256": "360f87193ed6dd6729e67ce09096df1743f892e13db43b6e03b02a8a036524dd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -272,8 +266,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.3.tar.gz",
-                    "sha256": "9218e62793116d42a9f6d14cd9348518b27f382096eea3d0f2d1a24616bb5884",
+                    "url": "https://github.com/tesseract-ocr/tesseract/archive/refs/tags/5.5.4.tar.gz",
+                    "sha256": "a8dbf8b8c8ee427ff6ad1d99116502feaf59440af1adb893caf60a6576826cf4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 4954,
@@ -370,8 +364,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/5.0.0.tar.gz",
-                    "sha256": "b0528f5a1d379d59d4701cb28c36e22214cc51cf64594e5b56f2d3e6c0233095",
+                    "url": "https://github.com/opencv/opencv/archive/5.1.0.tar.gz",
+                    "sha256": "638c1dae7e37e45afea21aa217dc667ad7cf57acc66cdf652c074f1e0e5ad6d2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -381,8 +375,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/5.0.0.tar.gz",
-                    "sha256": "c58f6344170c39abf187c56f3843b59cab1fd3e89cf19ba2ce25dc061659b27f",
+                    "url": "https://github.com/opencv/opencv_contrib/archive/5.1.0.tar.gz",
+                    "sha256": "6aee68285f0e7b7bf77d3656bc6568820c6f15704860fc0922def357d40ebeff",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6615,
@@ -419,8 +413,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/skanpage-26.08.2.tar.xz",
-                    "sha256": "1e06c842ee774de21a02772c5bb646088c6de970af22e9b3e879273b615bfe6e",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/skanpage-26.08.3.tar.xz",
+                    "sha256": "f2c753349f8d9e49114ed037615baab54948a528ca7f464f730b7099e19a8e6f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
