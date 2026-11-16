@@ -350,43 +350,6 @@
             ]
         },
         {
-            "name": "opencv",
-            "buildsystem": "cmake-ninja",
-            "builddir": true,
-            "config-opts": [
-                "-DCMAKE_BUILD_TYPE=Release",
-                "-DOPENCV_GENERATE_PKGCONFIG=ON",
-                "-DBUILD_LIST=tracking,dnn"
-            ],
-            "cleanup": [
-                "/bin"
-            ],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://github.com/opencv/opencv/archive/5.1.0.tar.gz",
-                    "sha256": "638c1dae7e37e45afea21aa217dc667ad7cf57acc66cdf652c074f1e0e5ad6d2",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 6615,
-                        "stable-only": true,
-                        "url-template": "https://github.com/opencv/opencv/archive/$version.tar.gz"
-                    }
-                },
-                {
-                    "type": "archive",
-                    "url": "https://github.com/opencv/opencv_contrib/archive/5.1.0.tar.gz",
-                    "sha256": "6aee68285f0e7b7bf77d3656bc6568820c6f15704860fc0922def357d40ebeff",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 6615,
-                        "stable-only": true,
-                        "url-template": "https://github.com/opencv/opencv_contrib/archive/$version.tar.gz"
-                    }
-                }
-            ]
-        },
-        {
             "name": "kquickimageeditor",
             "buildsystem": "cmake-ninja",
             "config-opts": [
